@@ -1,4 +1,4 @@
-```markdown
+
 # wallpaper-changer-service
 
 > Сервис смены обоев для Hyprland. Для любимых Linux-юзеров 🐧
@@ -68,7 +68,4 @@ WALLPAPER_DIR="/home/admin/Pictures/wallpaper"
 
 ---
 
-## 📫 Контакты
 
-Если есть вопросы или предложения — открывай Issue или пиши в Telegram: `[твой_ник]`
-```
