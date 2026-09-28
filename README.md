@@ -64,5 +64,3 @@ WALLPAPER_DIR="/home/admin/Pictures/wallpaper"
 - [ ] Добавить ротацию логов.
 - [ ] Уровни логирования (`INFO` / `WARN` / `ERROR`).
 - [ ] Метрики использования.
-
----
